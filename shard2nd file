@@ -1,0 +1,7 @@
+print("Sharad's Tip calculator" )
+bill=int(input("What was your bill??\n"))
+x=int(input("how many people were there to share the bill?\n))
+y=bill/x
+print ("bill per person" = y)
+z=input("how many tip you u want to give? \n")
+print ("Your total bill"=y+z)
